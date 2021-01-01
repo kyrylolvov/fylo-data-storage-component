@@ -206,7 +206,7 @@ main {
   }
   .popup {
     margin: 0;
-    top: 520px;
+    top: 590px;
     left: 50vw;
   }
   .popupTail {
@@ -216,7 +216,7 @@ main {
 
 @media (max-width: 400px) {
   .popup {
-    top: 510px;
+    top: 580px;
     left: 40vw;
     width: 105px;
     height: 34px;
